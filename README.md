@@ -1,5 +1,5 @@
 # Online-Retail-Application-Database
-#By Varsha Poonia
+By Varsha Poonia
 
 ER Diagram
 
